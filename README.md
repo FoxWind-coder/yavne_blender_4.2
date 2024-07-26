@@ -1,3 +1,4 @@
+this version fixed only for compatibility with blender 4.2? cannot work on older versions!
 # **Yet Another Vertex Normal Editor (Y.A.V.N.E.)**
 
 This Blender addon provides a set of tools for editing vertex normals. As seen in the following image, Y.A.V.N.E. can dramatically improve the visual quality of a mesh without altering geometry.
